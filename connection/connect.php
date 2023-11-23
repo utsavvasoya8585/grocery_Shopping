@@ -3,7 +3,7 @@
 //main connection file for both admin & front end
 $servername = "localhost"; //server
 $username = "root"; //username
-$password = ""; //password
+$password = "<password>"; //password
 $dbname = "GroceryShopping";  //database
 
 // Create connection
